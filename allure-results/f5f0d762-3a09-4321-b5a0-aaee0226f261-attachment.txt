@@ -1,0 +1,39 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                   Test Method: 'saucedemoBySHAFT.Loginforsaucedemo.LoginwithValidCredentails'                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ReportManager] Target URL: "https://www.saucedemo.com/" @14-08-2023 11:49:02.0999 AM
+[ReportManager] Navigate to url "https://www.saucedemo.com/". @14-08-2023 11:49:10.0627 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/simpleJSON.json"". @14-08-2023 11:49:10.0670 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/simpleJSON.json"". @14-08-2023 11:49:10.0671 AM
+[ReportManager] Type "standard_user" into "Username". @14-08-2023 11:49:13.0816 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/simpleJSON.json"". @14-08-2023 11:49:13.0853 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/simpleJSON.json"". @14-08-2023 11:49:13.0854 AM
+[ReportManager] Type "secret_sauce" into "Password". @14-08-2023 11:49:14.0083 AM
+[ReportManager] Moved the mouse to the middle of the element. @14-08-2023 11:49:14.0330 AM
+[ReportManager] Click "Login". @14-08-2023 11:49:14.0451 AM
+[ReportManager] Moved the mouse to the middle of the element. @14-08-2023 11:49:14.0883 AM
+[ReportManager] Click "By.xpath: //select[@class='product_sort_container']". @14-08-2023 11:49:14.0967 AM
+[ReportManager] Click "Price (low to high)". @14-08-2023 11:49:15.0152 AM
+[ReportManager] Moved the mouse to the middle of the element. @14-08-2023 11:49:15.0371 AM
+[ReportManager] Click "Add to cart". @14-08-2023 11:49:15.0420 AM
+[ReportManager] Moved the mouse to the middle of the element. @14-08-2023 11:49:15.0637 AM
+[ReportManager] Click "1". @14-08-2023 11:49:15.0695 AM
+[ReportManager] Moved the mouse to the middle of the element. @14-08-2023 11:49:15.0916 AM
+[ReportManager] Click "Checkout". @14-08-2023 11:49:15.0972 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/simpleJSON.json"". @14-08-2023 11:49:15.0994 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/simpleJSON.json"". @14-08-2023 11:49:15.0995 AM
+[ReportManager] Type "Samar_1" into "First Name". @14-08-2023 11:49:16.0267 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/simpleJSON.json"". @14-08-2023 11:49:16.0293 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/simpleJSON.json"". @14-08-2023 11:49:16.0294 AM
+[ReportManager] Type "Allam_1" into "Last Name". @14-08-2023 11:49:16.0534 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/simpleJSON.json"". @14-08-2023 11:49:16.0555 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/simpleJSON.json"". @14-08-2023 11:49:16.0556 AM
+[ReportManager] Type "02" into "Zip/Postal Code". @14-08-2023 11:49:16.0754 AM
+[ReportManager] Moved the mouse to the middle of the element. @14-08-2023 11:49:16.0988 AM
+[ReportManager] Click "Continue". @14-08-2023 11:49:17.0055 AM
+[ReportManager] Moved the mouse to the middle of the element. @14-08-2023 11:49:17.0270 AM
+[ReportManager] Click "Finish". @14-08-2023 11:49:17.0324 AM
+[ReportManager] Is element displayed "Thank you for your order!". @14-08-2023 11:49:17.0516 AM

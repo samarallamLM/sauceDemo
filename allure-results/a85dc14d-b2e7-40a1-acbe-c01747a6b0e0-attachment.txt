@@ -1,0 +1,105 @@
+[INFO ] 2023-08-14 11:48:47.956 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                                   Powered by SHAFT Engine v7.2.20230505_ALPHA                                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-14 11:48:52.748 [main] ReportManager - Loaded OpenCV "opencv_java470".
+[INFO ] 2023-08-14 11:48:52.782 [main] ReportManager - File Action "DeleteFolder" successfully performed. With the following test data "Target Folder: "execution-summary"".
+[INFO ] 2023-08-14 11:48:52.783 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2023-08-14 11:48:53.151 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2023-08-14 11:48:54.370 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-14 11:48:54.582 [main] ReportManager - Initializing Important Links...
+[INFO ] 2023-08-14 11:48:54.595 [main] ReportManager - Initializing Properties...
+[INFO ] 2023-08-14 11:48:54.750 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of before class configuration method                                             
+                                                'saucedemoBySHAFT.Loginforsaucedemo.beforeClass'                                                
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-14 11:48:54.803 [main] ReportManager - Setting "targetOperatingSystem" property with "WINDOWS".
+[INFO ] 2023-08-14 11:48:54.805 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/downloadedFiles/"".
+[INFO ] 2023-08-14 11:48:54.806 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/target/downloadedFiles/"".
+[INFO ] 2023-08-14 11:48:54.818 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/downloadedFiles/"".
+[INFO ] 2023-08-14 11:48:54.820 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/target/downloadedFiles/"".
+[INFO ] 2023-08-14 11:48:54.829 [main] ReportManager - Attempting to run locally on: "WINDOWS | Chrome".
+[INFO ] 2023-08-14 11:48:54.830 [main] ReportManager - Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time...
+[WARN ] 2023-08-14 11:48:59.244 [Exec Stream Pumper] ReportManager - Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 34105
+[WARN ] 2023-08-14 11:48:59.244 [Exec Stream Pumper] ReportManager - Only local connections are allowed.
+[WARN ] 2023-08-14 11:48:59.244 [Exec Stream Pumper] ReportManager - Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+[WARN ] 2023-08-14 11:48:59.267 [Exec Stream Pumper] ReportManager - ChromeDriver was started successfully.
+[WARN ] 2023-08-14 11:49:01.943 [Exec Stream Pumper] ReportManager - [1692006541.943][WARNING]: This version of ChromeDriver has not been tested with Chrome version 115.
+[WARN ] 2023-08-14 11:49:02.792 [main] ReportManager - Aug 14, 2023 11:49:02 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+[WARN ] 2023-08-14 11:49:02.792 [main] ReportManager - WARNING: Unable to find an exact match for CDP version 115, so returning the closest version found: 111
+[INFO ] 2023-08-14 11:49:02.819 [main] ReportManager - Successfully Opened: "WINDOWS | Chrome".
+[INFO ] 2023-08-14 11:49:02.832 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "simpleJSON.json"".
+[INFO ] 2023-08-14 11:49:02.834 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/simpleJSON.json"".
+[INFO ] 2023-08-14 11:49:02.835 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/simpleJSON.json"".
+[INFO ] 2023-08-14 11:49:02.856 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[INFO ] 2023-08-14 11:49:02.911 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                   Test Method: 'saucedemoBySHAFT.Loginforsaucedemo.LoginwithValidCredentails'                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-14 11:49:03.000 [main] ReportManager - Target URL: "https://www.saucedemo.com/"
+[INFO ] 2023-08-14 11:49:10.640 [main] ReportManager - Navigate to url "https://www.saucedemo.com/".
+[INFO ] 2023-08-14 11:49:10.670 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/simpleJSON.json"".
+[INFO ] 2023-08-14 11:49:10.671 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/simpleJSON.json"".
+[INFO ] 2023-08-14 11:49:13.816 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2023-08-14 11:49:13.853 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/simpleJSON.json"".
+[INFO ] 2023-08-14 11:49:13.855 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/simpleJSON.json"".
+[INFO ] 2023-08-14 11:49:14.084 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2023-08-14 11:49:14.331 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-08-14 11:49:14.452 [main] ReportManager - Click "Login".
+[INFO ] 2023-08-14 11:49:14.883 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-08-14 11:49:14.967 [main] ReportManager - Click "By.xpath: //select[@class='product_sort_container']".
+[INFO ] 2023-08-14 11:49:15.153 [main] ReportManager - Click "Price (low to high)".
+[INFO ] 2023-08-14 11:49:15.372 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-08-14 11:49:15.420 [main] ReportManager - Click "Add to cart".
+[INFO ] 2023-08-14 11:49:15.637 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-08-14 11:49:15.695 [main] ReportManager - Click "1".
+[INFO ] 2023-08-14 11:49:15.917 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-08-14 11:49:15.972 [main] ReportManager - Click "Checkout".
+[INFO ] 2023-08-14 11:49:15.994 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/simpleJSON.json"".
+[INFO ] 2023-08-14 11:49:15.995 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/simpleJSON.json"".
+[INFO ] 2023-08-14 11:49:16.268 [main] ReportManager - Type "Samar_1" into "First Name".
+[INFO ] 2023-08-14 11:49:16.293 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/simpleJSON.json"".
+[INFO ] 2023-08-14 11:49:16.294 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/simpleJSON.json"".
+[INFO ] 2023-08-14 11:49:16.534 [main] ReportManager - Type "Allam_1" into "Last Name".
+[INFO ] 2023-08-14 11:49:16.555 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/simpleJSON.json"".
+[INFO ] 2023-08-14 11:49:16.556 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/simpleJSON.json"".
+[INFO ] 2023-08-14 11:49:16.755 [main] ReportManager - Type "02" into "Zip/Postal Code".
+[INFO ] 2023-08-14 11:49:16.988 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-08-14 11:49:17.055 [main] ReportManager - Click "Continue".
+[INFO ] 2023-08-14 11:49:17.270 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-08-14 11:49:17.324 [main] ReportManager - Click "Finish".
+[INFO ] 2023-08-14 11:49:17.516 [main] ReportManager - Is element displayed "Thank you for your order!".
+[INFO ] 2023-08-14 11:49:17.528 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: LoginwithValidCredentails'
+[INFO ] 2023-08-14 11:49:17.721 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of after class configuration method                                             
+                                                 'saucedemoBySHAFT.Loginforsaucedemo.afterClass'                                                 
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-14 11:49:17.760 [main] ReportManager - Successfully created attachment 'Final Page Snapshot - afterClass'
+[INFO ] 2023-08-14 11:49:18.450 [main] ReportManager - Successfully Closed Driver.
+[INFO ] 2023-08-14 11:49:18.451 [main] ReportManager - Driver is already closed.
+[INFO ] 2023-08-14 11:49:18.477 [main] ReportManager - PASSED: saucedemoBySHAFT.Loginforsaucedemo.LoginwithValidCredentails
+[INFO ] 2023-08-14 11:49:18.479 [main] ReportManager - ===============================================
+[INFO ] 2023-08-14 11:49:18.479 [main] ReportManager -     Test
+[INFO ] 2023-08-14 11:49:18.479 [main] ReportManager -     Tests run: 1, Failures: 0, Skips: 0
+[INFO ] 2023-08-14 11:49:18.479 [main] ReportManager - ===============================================
+[INFO ] 2023-08-14 11:49:18.484 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                            Starting execution of suite teardown configuration method                                            
+                                        'com.shaft.listeners.internal.ConfigurationHelper.suiteTeardown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-14 11:49:18.485 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2023-08-14 11:49:18.487 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2023-08-14 11:49:18.488 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".
